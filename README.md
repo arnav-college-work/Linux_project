@@ -1,8 +1,8 @@
 [README.md](https://github.com/user-attachments/files/26381921/README.md)
 # Open Source Audit — Python
 
-**Student Name:** Hemant
-**Registration Number:** 24BAI10573 
+**Student Name:** ARNAV YADAV
+**Registration Number:** 24BAI10392
 **Chosen Software:** Python (Open Source)
 
 ---
